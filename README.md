@@ -14,7 +14,7 @@ Conway's Game of Life using TKinter
 
 ## Authors
 
-- William Ciesialka
+- Willow Ciesialka
 
 ## License
 
